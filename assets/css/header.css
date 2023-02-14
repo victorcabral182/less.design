@@ -1,0 +1,26 @@
+.container__header {
+
+}
+
+.container__header-content {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background: var(--preto-nany);
+    height: 80px;
+}
+
+.logo__header {
+    border: none;
+    height: 80px;
+    margin-left: 16px;
+}
+
+.menu__header-button {
+    font-size: 24px;
+    border: none;
+    color: var(--branco-nany);
+    background: var(--preto-nany);
+    padding: 16px;
+    margin-right: 16px;
+}
