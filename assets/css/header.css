@@ -1,5 +1,5 @@
 .container__header {
-
+    width: 100%;
 }
 
 .container__header-content {
@@ -17,10 +17,10 @@
 }
 
 .menu__header-button {
-    font-size: 24px;
+    font-size: 32px;
     border: none;
     color: var(--branco-nany);
     background: var(--preto-nany);
-    padding: 16px;
+    padding: 8px;
     margin-right: 16px;
 }
