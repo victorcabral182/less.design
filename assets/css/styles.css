@@ -1,7 +1,13 @@
 @import url("header.css");
+@import url("portfolio_preview.css");
+@import url("banner-superior.css");
+@import url("portfolio_mosaico.css");
 
 :root {
     --preto-nany: #373737;
     --branco-nany: #EEEEEE;
 }
 
+body {
+    font-family: "Poppins", sans-serif;
+}

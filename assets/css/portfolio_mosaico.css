@@ -1,0 +1,13 @@
+.container__mosaico-portfolio {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 0;
+}
+
+.mosaico__link {
+    line-height: 0;
+}
+
+.mosaico__item {
+    width: 100%;
+}

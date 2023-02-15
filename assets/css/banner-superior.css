@@ -1,0 +1,30 @@
+.container__banner-superior {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    background: var(--preto-nany);
+    padding: 24px;
+}
+
+.banner-destaque {
+    font-size: 24px;
+    font-weight: 600;
+    color: var(--branco-nany);
+    margin-bottom: 8px;
+}
+
+.banner-description-1{
+    font-size: 14px;
+    margin-top: 8px;
+    font-weight: 300;
+    color: var(--branco-nany);
+    line-height: 18px;
+}
+
+.banner-description-2{
+    font-size: 14px;
+    margin-top: 8px;
+    color: var(--branco-nany);
+    font-weight: 400;
+}
